@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:#AA7959;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	line-height: 18px;
+	width: 1300px;
+	background-color: #FCC;
+	padding: 20px;
+	}
+.paragraf_2 {color:#FCC; background-color:rgba(204,102,50,0);}
+.odvajanje {
+	padding: 22px;
+	margin: 22px;
+	width: 50%:
+    }
+	
+h1,h2{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white
+	}
+	
+h3 {font-family:Georgia, "Times New Roman", Times, serif;
+    color: #C66;
+	font-size: 16px;
+    }
+	
+.pozadina {
+	background-image:url(Slike/iPad%20Wallpaper.png);
+	background-color:#C66;
+    }
+	
+	.drugapozadina {
+		background-color: #C66;
+	}
+span{
+	color:#FC3
+    }
+a:link {
+	color:#C66;
+	background-color:#FFF;
+	padding:5px;
+	line-height: 40px;
+	border:1px solid
+    }
+	
+a:hover {
+	background-color:#C99;
+    }
+	
+img {
+	height: 200px;
+    }
+	
